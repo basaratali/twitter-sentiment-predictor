@@ -1,5 +1,9 @@
 # Twitter sentiment predictor
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://twitter-sentiment-predictor.streamlit.app)
+
+**Live demo: [twitter-sentiment-predictor.streamlit.app](https://twitter-sentiment-predictor.streamlit.app)**
+
 A Streamlit app that predicts sentiment (Positive / Negative / Neutral / Irrelevant) on
 tweet-like text, using a model you pick from a dropdown. Trained on the
 [Twitter Entity Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
